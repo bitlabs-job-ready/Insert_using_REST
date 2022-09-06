@@ -1,0 +1,6 @@
+create Student class with below variables.
+   -String sname
+    -int sid
+perfom below operations using REST api.
+
+1.perform insert opertion.
